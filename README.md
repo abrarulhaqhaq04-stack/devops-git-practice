@@ -1,1 +1,1 @@
- my first Devops Git project 
+ Learning git for junor devops 
